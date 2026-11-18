@@ -1,7 +1,7 @@
 # tanda_dolorena
 
 ## Ronda 1. Registrar una aportación válida ROJO
-<img src="screenshoots/R1_RegistrarAportacionValida-ROJO.png" width="350">
+<img src="screenshoots/R1_RegistrarAportacionValida-ROJO.jpeg" width="350">
 
 ## Ronda 1. Registrar una aportación válida
 <img src="screenshoots/R1_RegistrarAportacionValida-VERDE.png" width="350">
